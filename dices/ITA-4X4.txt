@@ -1,0 +1,24 @@
+# lines starting with a "#" are comments
+#this is the italian 4X4 set of dices, you can create your own set of dices
+#Wide and Heigh, you could create not only 4X4 or 5X5 size... 
+#8X6 for example is good but then you have to provide 64 dices
+4X4
+#write dices here down, they must be WxH and they could have more than 6 faces if you want
+#following dices are the copy from the real italian board game but
+#you can build your own set of dices and your preferred size
+S,A,C,L,R,E
+E,A,T,I,O,A
+G,N,O,L,U,E
+I,S,E,E,F,H
+L,U,O,I,E,R
+N,E,D,O,S,T
+U,T,E,S,L,P
+R,A,T,I,B,L
+H,I,S,E,R,N
+M,P,A,C,E,D
+C,O,A,I,F,R
+A,M,S,R,I,O
+V,I,T,E,G,N
+D,A,N,E,Z,V
+N,O,E,U,C,T
+A,M,O,Qu,O,B
